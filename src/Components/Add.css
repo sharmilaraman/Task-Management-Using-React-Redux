@@ -1,0 +1,15 @@
+#Addbutton{
+     margin: 10px;
+     padding: 5px;
+     width: 150px;
+     height: 100;
+     color:white;
+     background-color: green;
+}
+div input{
+     margin: 10px;
+     padding: 5px;
+     width: 200px;
+     height: 100;
+     color: black;
+}
