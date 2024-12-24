@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task-Management-Using-React-Redux/static/css/main.15e42891.css",
+    "main.js": "/Task-Management-Using-React-Redux/static/js/main.660df117.js",
+    "index.html": "/Task-Management-Using-React-Redux/index.html",
+    "main.15e42891.css.map": "/Task-Management-Using-React-Redux/static/css/main.15e42891.css.map",
+    "main.660df117.js.map": "/Task-Management-Using-React-Redux/static/js/main.660df117.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15e42891.css",
+    "static/js/main.660df117.js"
+  ]
+}
